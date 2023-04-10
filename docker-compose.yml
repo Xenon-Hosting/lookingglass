@@ -6,7 +6,7 @@ services:
   #     - HOST=0.0.0.0
   #     - PORT=80
   #     - NODE_ENV=production
-  #     - APP_KEY=FJNIDSFJE(*J(#JF#)KQF)QNFO
+  #     - APP_KEY=SAKDMSAMDMADIKBWUFBOFWONFJWNFJWBFJUBFJBFFASFVAHEDWAFHJEFFDSF
   #   tty: true
   #   ports:
   #     - 80:80
